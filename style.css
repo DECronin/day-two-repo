@@ -1,0 +1,8 @@
+body {background-color:lightsalmon;
+}
+ul{font-weight: bold;}
+#my-best-paragraph{
+    border: 3px solid white;
+}
+p{border: 2px dotted aquamarine}
+.pretty-picture{border: 15px solid gray}
